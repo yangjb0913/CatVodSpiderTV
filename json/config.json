@@ -2,14 +2,6 @@
   "spider": "../jar/spider.jar;md5;459261f82239a8b74e54738512423abd",
   "sites": [
     {
-      "key": "Intruduce",
-      "name": "验证设置",
-      "type": 3,
-      "api": "csp_Introduce",
-      "searchable": 0,
-      "changeable": 0
-    },
-    {
       "key": "Douban",
       "name": "豆瓣|首页",
       "type": 3,
